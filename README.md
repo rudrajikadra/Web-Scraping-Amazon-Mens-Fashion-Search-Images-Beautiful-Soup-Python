@@ -13,7 +13,7 @@ The format in which the it should be filled is
   Example : "12 red jacket"
   So it will download first 12 images when red jacket is searched under amazon's men fashion brand
 
-The Code is quite easy to understand 
+The Code is quite easy and self explainatory.
  
 ## Output
 ![screen shot 2018-08-11 at 11 57 54 pm](https://user-images.githubusercontent.com/15246084/43995240-28c40400-9dc8-11e8-9a2f-55de9a7619e2.png)
